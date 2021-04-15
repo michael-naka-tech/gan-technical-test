@@ -17,3 +17,4 @@ Demo: https://www.screencast.com/t/7OJq5RdHCkMO
 Demo:https://www.screencast.com/t/rs0FLMrBBeiw
 
 ## Where to find Question 2?
+https://github.com/michael-naka-tech/gan-technical-test/blob/main/src/test/resources/features/ui/SHAFAR_AKINBOLU_MG.feature
